@@ -18,5 +18,5 @@ Business Questions:
 Analysis Content : 
   The analysis includes consistency checks, data wrangling steps, column derivations, and recommendations based on project deliverables. All work is conducted in Jupyter    Notebooks, and a final Excel document consolidating findings is provided.
 
-Data Soruce: 
+Data Source: 
   The Instacart Online Grocery Shopping Dataset 2017 was accessed from Instacart's official website via Kaggle on 18-02-2024. It's important to note that data on customers and the "prices" column in the 'products' dataset were fabricated for the purpose of this analysis.
